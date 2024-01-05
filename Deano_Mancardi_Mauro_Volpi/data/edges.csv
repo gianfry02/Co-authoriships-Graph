@@ -1,0 +1,128 @@
+,author,coauthor
+0,David La Barbera,Kevin Roitero
+1,David La Barbera,Stefano Mizzaro
+2,David La Barbera,Gianluca Demartini
+3,David La Barbera,Damiano Spina
+4,David La Barbera,Michael Soprano
+5,David La Barbera,Vincenzo Della Mea
+6,David La Barbera,Davide Ceolin
+7,David La Barbera,Tim Draws
+8,David La Barbera,Joel Mackenzie
+9,Michael Soprano,Kevin Roitero
+10,Michael Soprano,Stefano Mizzaro
+11,Michael Soprano,Gianluca Demartini
+12,Michael Soprano,Damiano Spina
+13,Michael Soprano,Davide Ceolin
+14,Michael Soprano,David La Barbera
+15,Michael Soprano,Vincenzo Della Mea
+16,Michael Soprano,Beatrice Portelli
+17,Michael Soprano,Giuseppe Serra
+18,Michael Soprano,Shaoyang Fan
+19,Michael Soprano,Giuseppe Primiero
+20,Michael Soprano,Jan Wielemaker
+21,Michael Soprano,Tim Draws
+22,Michael Soprano,Alessandro Checco
+23,Michael Soprano,Afshin Rahimi
+24,Michael Soprano,Andrea Brunello
+25,Michael Soprano,Tetsuya Sakai
+26,Michael Soprano,Eddy Maddalena
+27,Kevin Roitero,Stefano Mizzaro
+28,Kevin Roitero,Gianluca Demartini
+29,Kevin Roitero,Michael Soprano
+30,Kevin Roitero,Eddy Maddalena
+31,Kevin Roitero,Vincenzo Della Mea
+32,Kevin Roitero,Damiano Spina
+33,Kevin Roitero,David La Barbera
+34,Kevin Roitero,Alessandro Checco
+35,Kevin Roitero,Beatrice Portelli
+36,Kevin Roitero,Mihai Horia Popescu
+37,Kevin Roitero,Davide Ceolin
+38,Kevin Roitero,Falk Scholer
+39,Kevin Roitero,J. Shane Culpepper
+40,Kevin Roitero,Andrea Brunello
+41,Kevin Roitero,Shaoyang Fan
+42,Kevin Roitero,Yunke Qu
+43,Kevin Roitero,Mark Sanderson
+44,Kevin Roitero,Rishabh Mehrotra
+45,Kevin Roitero,Mounia Lalmas
+46,Kevin Roitero,Ben Carterette
+47,Stefano Mizzaro,Kevin Roitero
+48,Stefano Mizzaro,Vincenzo Della Mea
+49,Stefano Mizzaro,Gianluca Demartini
+50,Stefano Mizzaro,Eddy Maddalena
+51,Stefano Mizzaro,Luca Vassena
+52,Stefano Mizzaro,Luca Di Gaspero
+53,Stefano Mizzaro,Damiano Spina
+54,Stefano Mizzaro,Carlo Tasso
+55,Stefano Mizzaro,Michael Soprano
+56,Stefano Mizzaro,Paolo Coppola
+57,Stefano Mizzaro,Falk Scholer
+58,Stefano Mizzaro,Omar Alonso
+59,Stefano Mizzaro,Mark Sanderson
+60,Stefano Mizzaro,David La Barbera
+61,Stefano Mizzaro,Elena Nazzi
+62,Stefano Mizzaro,Giorgio Brajnik
+63,Stefano Mizzaro,Fabio Crestani
+64,Stefano Mizzaro,Claudio Carpineto
+65,Stefano Mizzaro,Marco Pavan
+66,Stefano Mizzaro,Andrew Turpin
+67,Damiano Spina,Mark Sanderson
+68,Damiano Spina,Falk Scholer
+69,Damiano Spina,Julio Gonzalo
+70,Damiano Spina,Lawrence Cavedon
+71,Damiano Spina,Johanne R. Trippas
+72,Damiano Spina,Stefano Mizzaro
+73,Damiano Spina,Gianluca Demartini
+74,Damiano Spina,Jorge Carrillo-de-Albornoz
+75,Damiano Spina,Kevin Roitero
+76,Damiano Spina,Maarten de Rijke
+77,Damiano Spina,Arkaitz Zubiaga
+78,Damiano Spina,Hideo Joho
+79,Damiano Spina,Edgar Meij
+80,Damiano Spina,Flora Salim
+81,Damiano Spina,Michael Soprano
+82,Damiano Spina,W. Bruce Croft
+83,Damiano Spina,Víctor Fresno
+84,Damiano Spina,Raquel Martinez
+85,Damiano Spina,Yongli Ren
+86,Damiano Spina,Ryen W. White
+87,Gianluca Demartini,Philippe Cudre-Mauroux
+88,Gianluca Demartini,Djellel Difallah
+89,Gianluca Demartini,Kevin Roitero
+90,Gianluca Demartini,Stefano Mizzaro
+91,Gianluca Demartini,Alessandro Checco
+92,Gianluca Demartini,Ujwal Gadiraju
+93,Gianluca Demartini,Tereza Iofciu
+94,Gianluca Demartini,Michele Catasta
+95,Gianluca Demartini,Wolfgang Nejdl
+96,Gianluca Demartini,Lei Han
+97,Gianluca Demartini,Shazia Sadiq
+98,Gianluca Demartini,Peter A Bath
+99,Gianluca Demartini,Damiano Spina
+100,Gianluca Demartini,"Dr. Wasim Ahmed, PhD"
+101,Gianluca Demartini,Eddy Maddalena
+102,Gianluca Demartini,Karl Aberer
+103,Gianluca Demartini,Alberto Tonon
+104,Gianluca Demartini,Michael Soprano
+105,Gianluca Demartini,Laura Sbaffi
+106,Gianluca Demartini,Claudiu S. Firan
+107,Eddy Maddalena,Stefano Mizzaro
+108,Eddy Maddalena,Kevin Roitero
+109,Eddy Maddalena,Gianluca Demartini
+110,Eddy Maddalena,Alessandro Checco
+111,Eddy Maddalena,Elena Simperl
+112,Eddy Maddalena,Falk Scholer
+113,Eddy Maddalena,Lei Han
+114,Eddy Maddalena,Andrew Turpin
+115,Eddy Maddalena,Ujwal Gadiraju
+116,Eddy Maddalena,Cristina Sarasua
+117,Eddy Maddalena,Luis-Daniel Ibáñez
+118,Eddy Maddalena,Vincenzo Della Mea
+119,Eddy Maddalena,Marco Basaldella
+120,Eddy Maddalena,Mattia Zeni
+121,Eddy Maddalena,Dante Degl'Innocenti
+122,Eddy Maddalena,Pavlos Vougiouklis
+123,Eddy Maddalena,Jonathon Hare
+124,Eddy Maddalena,Carlo Alberto Beltrami
+125,Eddy Maddalena,Richard Gomer
+126,Eddy Maddalena,Davide Ceolin
